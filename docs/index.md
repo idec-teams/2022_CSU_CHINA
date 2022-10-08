@@ -1,18 +1,12 @@
 # iDEC 2022 | CSU_CHINA
 
-CSU_CHINA2022
-
-<center class="half">
-    <img src="https://s1.ax1x.com/2022/10/08/xGmmQS.png" height="70"/>
-    <img src="https://s1.ax1x.com/2022/10/08/xGmuLQ.png" height="70"/>
-</center>
+## CSU_CHINA2022
 
 
-
-Based on bacterial conjugation: a new idea of multifactor screening
-
+<img src="https://s1.ax1x.com/2022/10/08/xGmuLQ.png" height="30"/>
 
 
+### Based on bacterial conjugation: a new idea of multifactor screening
 
 
 **Abstract**
@@ -23,11 +17,14 @@ In order to test the feasibility of the theory, we chose a multi factor model to
 
 
 
+<center class="half">
+    <img src="https://s1.ax1x.com/2022/10/08/xGmmQS.png" height="30"/>
+    <img src="https://s1.ax1x.com/2022/10/08/xGmZz8.png" height="30"/>
+</center>
 
 
 
 
-![img](https://s1.ax1x.com/2022/10/08/xGmZz8.png)
 
 
 
