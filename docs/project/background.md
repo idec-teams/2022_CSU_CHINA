@@ -1,7 +1,5 @@
 # Background
 
-
-
 1. Bacterial conjugation and the idea.
 
 Bacterial conjugation is a process in which bacteria recombinate gene through temporary communication of cells and transfer of genetic material. Bacterial conjugation is ubiquitous in the bacterial world, forms a potent force for gene dissemination and repair in the bacteria[1].
