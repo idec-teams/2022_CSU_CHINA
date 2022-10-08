@@ -28,4 +28,4 @@ In order to test the feasibility of the theory, we chose a multi factor model to
 
 
 
-https://idec.io/
+<center>https://idec.io/</center>
