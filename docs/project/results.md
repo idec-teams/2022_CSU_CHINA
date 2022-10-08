@@ -1,6 +1,5 @@
 # Results
 
-**Results**
 
 1. Electrophoresis results of PCR products
 
@@ -14,13 +13,13 @@ The characteristics of the plasmid used, if the target gene is successfully tran
 
 
 
-\3. Inhibitory effect of mutant strains on helicobacter pylori
+3. Inhibitory effect of mutant strains on helicobacter pylori
 
 By comparing the different inhibitory effects of the cultures of mutant strains on Helicobacter pylori, we can select lactobacillus which can produce stronger bacteriocin.
 
 
 
-\4. Sequencing results
+4. Sequencing results
 
 Sequencing and analyzing the mutation site to cultivate lactic acid bacteria with stronger inhibitory effect of Helicobacter pylori.
 
@@ -28,7 +27,7 @@ Sequencing and analyzing the mutation site to cultivate lactic acid bacteria wit
 
 
 
-\5. Other model assumptions.
+5. Other model assumptions.
 
 In conventional evolutionary design, we usually evolve a gene to obtain the desired protein. However, through bacterial conjugation, we may try to obtain some evolutionary products under the influence of multiple factors, or explore the interaction mechanism through evolutionary methods.
 
