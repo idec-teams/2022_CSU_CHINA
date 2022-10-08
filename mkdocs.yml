@@ -45,6 +45,6 @@ nav:
       - Background: project/background.md
       - Results: project/results.md
   - Documentation:
-      - Protocols: documentation/Lab notebook.md
-      - Lab notebook: documentation/Protocols.md
+      - Protocols: documentation/Protocols.md
+      - Lab notebook: documentation/Lab notebook.md
   - Some useful features: useful_features.md
