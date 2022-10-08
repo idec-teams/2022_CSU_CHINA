@@ -13,7 +13,7 @@ theme:
     - navigation.sections
 
 markdown_extensions:
-  - footnotes
+  #- footnotes
 
   # For MathJax
   - pymdownx.arithmatex:
